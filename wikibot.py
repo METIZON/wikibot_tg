@@ -2,6 +2,7 @@ import telebot
 import wikipedia
 
 # http://t.me/Wiki_tg_bot
+# telegram: t.me/metiz0n
 
 bot = telebot.TeleBot('[YOUR TOKEN HERE]')
 
